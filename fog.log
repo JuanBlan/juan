@@ -1,0 +1,482 @@
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:26 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:26 Client-Info Client OS:      Windows
+ 10/01/2020 11:26 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:26 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:26 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:26 Service Sleeping for 67 seconds
+ 10/01/2020 11:27 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:27 Middleware::Response Success
+ 10/01/2020 11:27 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:27 Middleware::Authentication Waiting for authentication timeout to pass
+ 10/01/2020 11:28 Middleware::Communication Download: http://192.168.0.220/fog/management/other/ssl/srvpublic.crt
+ 10/01/2020 11:28 Data::RSA FOG Server CA cert found
+ 10/01/2020 11:28 Middleware::Authentication Cert OK
+ 10/01/2020 11:28 Middleware::Communication POST URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 10/01/2020 11:28 Middleware::Response Invalid security token
+ 10/01/2020 11:28 Middleware::Response Success
+ 10/01/2020 11:28 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?clientver&newService&json
+ 10/01/2020 11:28 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?newService&json
+
+ 10/01/2020 11:28 Service Creating user agent cache
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:28 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:28 Client-Info Client OS:      Windows
+ 10/01/2020 11:28 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:28 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:28 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:28 Service Sleeping for 75 seconds
+ 10/01/2020 11:29 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:29 Middleware::Response Success
+ 10/01/2020 11:29 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:29 Middleware::Authentication Waiting for authentication timeout to pass
+ 10/01/2020 11:30 Middleware::Communication Download: http://192.168.0.220/fog/management/other/ssl/srvpublic.crt
+ 10/01/2020 11:30 Data::RSA FOG Server CA cert found
+ 10/01/2020 11:30 Middleware::Authentication Cert OK
+ 10/01/2020 11:30 Middleware::Communication POST URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 10/01/2020 11:30 Middleware::Response Invalid security token
+ 10/01/2020 11:30 Middleware::Response Success
+ 10/01/2020 11:30 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?clientver&newService&json
+ 10/01/2020 11:30 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?newService&json
+
+ 10/01/2020 11:30 Service Creating user agent cache
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:30 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:30 Client-Info Client OS:      Windows
+ 10/01/2020 11:30 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:30 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:30 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:30 Service Sleeping for 136 seconds
+ 10/01/2020 11:32 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:32 Middleware::Response Success
+ 10/01/2020 11:32 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:32 Middleware::Authentication Waiting for authentication timeout to pass
+ 10/01/2020 11:32 Middleware::Communication Download: http://192.168.0.220/fog/management/other/ssl/srvpublic.crt
+ 10/01/2020 11:32 Data::RSA FOG Server CA cert found
+ 10/01/2020 11:32 Middleware::Authentication Cert OK
+ 10/01/2020 11:32 Middleware::Communication POST URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 10/01/2020 11:32 Middleware::Response Invalid security token
+ 10/01/2020 11:32 Middleware::Response Success
+ 10/01/2020 11:32 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?clientver&newService&json
+ 10/01/2020 11:32 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?newService&json
+
+ 10/01/2020 11:32 Service Creating user agent cache
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:32 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:32 Client-Info Client OS:      Windows
+ 10/01/2020 11:32 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:32 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:32 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:32 Service Sleeping for 151 seconds
+ 10/01/2020 11:34 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:34 Middleware::Response Success
+ 10/01/2020 11:34 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:34 Middleware::Authentication Waiting for authentication timeout to pass
+ 10/01/2020 11:34 Middleware::Communication Download: http://192.168.0.220/fog/management/other/ssl/srvpublic.crt
+ 10/01/2020 11:34 Data::RSA FOG Server CA cert found
+ 10/01/2020 11:34 Middleware::Authentication Cert OK
+ 10/01/2020 11:34 Middleware::Communication POST URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 10/01/2020 11:34 Middleware::Response Invalid security token
+ 10/01/2020 11:34 Middleware::Response Success
+ 10/01/2020 11:34 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?clientver&newService&json
+ 10/01/2020 11:34 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?newService&json
+
+ 10/01/2020 11:34 Service Creating user agent cache
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:34 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:34 Client-Info Client OS:      Windows
+ 10/01/2020 11:34 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:34 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:34 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:34 Service Sleeping for 98 seconds
+ 10/01/2020 11:36 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:36 Middleware::Response Success
+ 10/01/2020 11:36 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:36 Middleware::Authentication Waiting for authentication timeout to pass
+ 10/01/2020 11:36 Middleware::Communication Download: http://192.168.0.220/fog/management/other/ssl/srvpublic.crt
+ 10/01/2020 11:36 Data::RSA FOG Server CA cert found
+ 10/01/2020 11:36 Middleware::Authentication Cert OK
+ 10/01/2020 11:36 Middleware::Communication POST URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&authorize&newService
+ 10/01/2020 11:36 Middleware::Response Invalid security token
+ 10/01/2020 11:36 Middleware::Response Success
+ 10/01/2020 11:36 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?clientver&newService&json
+ 10/01/2020 11:36 Middleware::Communication URL: http://192.168.0.220/fog/service/getversion.php?newService&json
+
+ 10/01/2020 11:36 Service Creating user agent cache
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------ClientUpdater--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response Success
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+----------------------------------TaskReboot----------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------HostnameChanger-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+---------------------------------SnapinClient---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PrinterManager--------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+--------------------------------PowerManagement-------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+
+------------------------------------------------------------------------------
+----------------------------------UserTracker---------------------------------
+------------------------------------------------------------------------------
+ 10/01/2020 11:36 Client-Info Client Version: 0.11.16
+ 10/01/2020 11:36 Client-Info Client OS:      Windows
+ 10/01/2020 11:36 Client-Info Server Version: 1.5.7
+ 10/01/2020 11:36 Middleware::Response ERROR: Unable to get subsection
+ 10/01/2020 11:36 Middleware::Response ERROR: Referencia a objeto no establecida como instancia de un objeto.
+ 10/01/2020 11:36 Service Sleeping for 71 seconds
+ 10/01/2020 11:38 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&configure&newService&json
+ 10/01/2020 11:38 Middleware::Response Success
+ 10/01/2020 11:38 Middleware::Communication URL: http://192.168.0.220/fog/management/index.php?sub=requestClientInfo&mac=0A:00:27:00:00:04|78:AC:C0:C2:EB:B9&newService&json
+ 10/01/2020 11:38 Middleware::Authentication Waiting for authentication timeout to pass
